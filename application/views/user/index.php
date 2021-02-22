@@ -144,7 +144,7 @@
     <div class="contact_section layout_padding">
         <div class="container-fluid">
             <h1 class="what_taital">Rute terpendek dengan algoritma Floyd Warshall</h1>
-            <p class="amet_text"> Silahkan cari bank atau atm yang ada di Kota Jayapura. </p>
+            <p class="amet_text"> Silahkan cari bank atau atm yang ada di Kota Jayapura dan Kabupaten Jayapura. </p>
             <div class="contact_section2">
                 <div class="container">
                     <div class="row">
